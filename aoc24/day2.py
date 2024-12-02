@@ -58,7 +58,7 @@ def part_two(lines):
 
 
 if __name__ == '__main__':
-    lines = open_file("input.txt")
+    lines = open_file("input2.txt")
 
     print(f"Part 1: {part_one(lines)}")
     print(f"Part 2: {part_two(lines)}")
